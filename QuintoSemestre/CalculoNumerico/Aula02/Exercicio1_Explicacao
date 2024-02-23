@@ -1,0 +1,64 @@
+// PROBLEMA:
+// Estimar o valor de PI por monte carlo. Calcule o erro absoluto e o erro relativo. Use pelo menos 5 valores diferentes para o número total de pontos.
+
+
+
+#include <stdio.h>
+#include <math.h>
+#include <time.h>
+#include <stdlib.h>
+#define SEED time(NULL)
+
+int main(void) {
+  srand( SEED );
+  double pontosX, pontosY, pi, pitagoras, pontosCirculo;
+
+  // pontosX e pontosY são os pontos que serão gerados para delimitar os pontos das coordenadas X e Y dentro do quadrado.
+  // pi é a variável que armazena o valor aproximado de pi.
+  // pitagoras é a variável para determinar a distância entre os pontos X e Y.
+  // pontosCirculo é a variável que armazena a quantidade de pontos que estão dentro do círculo.
+
+  double raio = 1, areaQuadrado = pow((raio * 2), 2);
+
+  // o raio é o valor do raio do círculo.
+  // areaQuadrado é a área do quadrado.
+  // para obter a area do quadrado, apenas precisamos multiplicar o raio do círculo por 2, que nos dará a largura do quadrado e elevando ao quadrado, temos a area do quadrado.
+  double numInteracoes = 1000000;
+
+  // numero total de pontos/interações que serão gerados.
+
+  for(int i = 0; i < numInteracoes; i++){
+    pontosX = (double)rand() / RAND_MAX;
+    pontosY = (double)rand() / RAND_MAX;
+
+   // printf("Primeiro número aleatório: %.6f", pontosX);
+   // printf("\nSegundo número aleatório: %.6f", pontosY);
+
+   // esses dois printf são para ver quais números aleatorios foram gerados, mas como são 1000000 de pontos, é melhor deixar essa parte comentada para ver o resultado.
+    
+    pitagoras = pow(pontosX, 2) + pow(pontosY, 2);
+    
+    if(pitagoras <= 1){
+      pontosCirculo++;
+    }
+
+    // para cada ponto/interação gerada, serão gerados dois numeros aleatorios.
+    // depois, é calculado a distância entre as coordenadas formada pelo X e Y aleatório utilizando a formula de pitagoras.
+
+    // por último, como o raio do circulo é 1, delimitamos que cada número/coordenada que estiver a uma distância menor que 1, está dentro do circulo e portanto, 
+    // podemos somar quantos pontos existem dentro do circulo.
+  }
+
+  pi = (pontosCirculo / numInteracoes) * 4;
+
+  // a formula para descobrir o valor aproximado de pi, é pegando todos os pontos que estão dentro do circulo e divindo pelos que estão dentro do quadrado,
+  // porém, como o quadrado engloba a área do circulo também, isso significa que os pontos dentro do quadrado totalizam todos os pontos gerados.
+  // é preciso multiplicar por 4, por causa da divisão feita em pontosX e pontosY.
+
+  printf("PI aproximado: %.6f", pi);
+  printf("\nValor esperado de pi: %.6f", M_PI);
+  printf("\nErro absoluto: %.6f", pi - M_PI);
+  printf("\nErro relativo: %.6f", (pi - M_PI) / M_PI);
+  
+  return 0;
+}
