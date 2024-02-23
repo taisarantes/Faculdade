@@ -1,0 +1,15 @@
+C:\Users\thyago.cquintas\source\repos\RPGPOO\RPGPOO\bin\Debug\net6.0\RPGPOO.exe
+C:\Users\thyago.cquintas\source\repos\RPGPOO\RPGPOO\bin\Debug\net6.0\RPGPOO.deps.json
+C:\Users\thyago.cquintas\source\repos\RPGPOO\RPGPOO\bin\Debug\net6.0\RPGPOO.runtimeconfig.json
+C:\Users\thyago.cquintas\source\repos\RPGPOO\RPGPOO\bin\Debug\net6.0\RPGPOO.dll
+C:\Users\thyago.cquintas\source\repos\RPGPOO\RPGPOO\bin\Debug\net6.0\RPGPOO.pdb
+C:\Users\thyago.cquintas\source\repos\RPGPOO\RPGPOO\obj\Debug\net6.0\RPGPOO.csproj.AssemblyReference.cache
+C:\Users\thyago.cquintas\source\repos\RPGPOO\RPGPOO\obj\Debug\net6.0\RPGPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thyago.cquintas\source\repos\RPGPOO\RPGPOO\obj\Debug\net6.0\RPGPOO.AssemblyInfoInputs.cache
+C:\Users\thyago.cquintas\source\repos\RPGPOO\RPGPOO\obj\Debug\net6.0\RPGPOO.AssemblyInfo.cs
+C:\Users\thyago.cquintas\source\repos\RPGPOO\RPGPOO\obj\Debug\net6.0\RPGPOO.csproj.CoreCompileInputs.cache
+C:\Users\thyago.cquintas\source\repos\RPGPOO\RPGPOO\obj\Debug\net6.0\RPGPOO.dll
+C:\Users\thyago.cquintas\source\repos\RPGPOO\RPGPOO\obj\Debug\net6.0\refint\RPGPOO.dll
+C:\Users\thyago.cquintas\source\repos\RPGPOO\RPGPOO\obj\Debug\net6.0\RPGPOO.pdb
+C:\Users\thyago.cquintas\source\repos\RPGPOO\RPGPOO\obj\Debug\net6.0\RPGPOO.genruntimeconfig.cache
+C:\Users\thyago.cquintas\source\repos\RPGPOO\RPGPOO\obj\Debug\net6.0\ref\RPGPOO.dll

@@ -1,0 +1,16 @@
+C:\Users\alan_\Documents\senacTrabalhos\Jogo Autonomo\CartagenaAuto2000\ExcCursosPOO\ExcCursosPOO\bin\Debug\ExcCursosPOO.exe.config
+C:\Users\alan_\Documents\senacTrabalhos\Jogo Autonomo\CartagenaAuto2000\ExcCursosPOO\ExcCursosPOO\bin\Debug\ExcCursosPOO.exe
+C:\Users\alan_\Documents\senacTrabalhos\Jogo Autonomo\CartagenaAuto2000\ExcCursosPOO\ExcCursosPOO\bin\Debug\ExcCursosPOO.pdb
+C:\Users\alan_\Documents\senacTrabalhos\Jogo Autonomo\CartagenaAuto2000\ExcCursosPOO\ExcCursosPOO\obj\Debug\ExcCursosPOO.csproj.AssemblyReference.cache
+C:\Users\alan_\Documents\senacTrabalhos\Jogo Autonomo\CartagenaAuto2000\ExcCursosPOO\ExcCursosPOO\obj\Debug\ExcCursosPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\alan_\Documents\senacTrabalhos\Jogo Autonomo\CartagenaAuto2000\ExcCursosPOO\ExcCursosPOO\obj\Debug\ExcCursosPOO.csproj.CoreCompileInputs.cache
+C:\Users\alan_\Documents\senacTrabalhos\Jogo Autonomo\CartagenaAuto2000\ExcCursosPOO\ExcCursosPOO\obj\Debug\ExcCursosPOO.exe
+C:\Users\alan_\Documents\senacTrabalhos\Jogo Autonomo\CartagenaAuto2000\ExcCursosPOO\ExcCursosPOO\obj\Debug\ExcCursosPOO.pdb
+C:\Users\alan_\Documents\senacTrabalhos\AulasPOO\ExcCursosPOO\ExcCursosPOO\obj\Debug\ExcCursosPOO.csproj.AssemblyReference.cache
+C:\Users\alan_\Documents\senacTrabalhos\AulasPOO\ExcCursosPOO\ExcCursosPOO\obj\Debug\ExcCursosPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\alan_\Documents\senacTrabalhos\AulasPOO\ExcCursosPOO\ExcCursosPOO\obj\Debug\ExcCursosPOO.csproj.CoreCompileInputs.cache
+C:\Users\alan_\Documents\senacTrabalhos\AulasPOO\ExcCursosPOO\ExcCursosPOO\obj\Debug\ExcCursosPOO.exe
+C:\Users\alan_\Documents\senacTrabalhos\AulasPOO\ExcCursosPOO\ExcCursosPOO\obj\Debug\ExcCursosPOO.pdb
+C:\Users\alan_\Documents\senacTrabalhos\AulasPOO\ExcCursosPOO\ExcCursosPOO\bin\Debug\ExcCursosPOO.exe.config
+C:\Users\alan_\Documents\senacTrabalhos\AulasPOO\ExcCursosPOO\ExcCursosPOO\bin\Debug\ExcCursosPOO.exe
+C:\Users\alan_\Documents\senacTrabalhos\AulasPOO\ExcCursosPOO\ExcCursosPOO\bin\Debug\ExcCursosPOO.pdb

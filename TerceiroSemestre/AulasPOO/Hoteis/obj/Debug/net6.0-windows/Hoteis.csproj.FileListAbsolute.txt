@@ -1,0 +1,17 @@
+C:\Users\thyago.cquintas\source\repos\Hoteis\Hoteis\obj\Debug\net6.0-windows\Hoteis.csproj.AssemblyReference.cache
+C:\Users\thyago.cquintas\source\repos\Hoteis\Hoteis\obj\Debug\net6.0-windows\Hoteis.Form1.resources
+C:\Users\thyago.cquintas\source\repos\Hoteis\Hoteis\obj\Debug\net6.0-windows\Hoteis.csproj.GenerateResource.cache
+C:\Users\thyago.cquintas\source\repos\Hoteis\Hoteis\obj\Debug\net6.0-windows\Hoteis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thyago.cquintas\source\repos\Hoteis\Hoteis\obj\Debug\net6.0-windows\Hoteis.AssemblyInfoInputs.cache
+C:\Users\thyago.cquintas\source\repos\Hoteis\Hoteis\obj\Debug\net6.0-windows\Hoteis.AssemblyInfo.cs
+C:\Users\thyago.cquintas\source\repos\Hoteis\Hoteis\obj\Debug\net6.0-windows\Hoteis.csproj.CoreCompileInputs.cache
+C:\Users\thyago.cquintas\source\repos\Hoteis\Hoteis\bin\Debug\net6.0-windows\Hoteis.exe
+C:\Users\thyago.cquintas\source\repos\Hoteis\Hoteis\bin\Debug\net6.0-windows\Hoteis.deps.json
+C:\Users\thyago.cquintas\source\repos\Hoteis\Hoteis\bin\Debug\net6.0-windows\Hoteis.runtimeconfig.json
+C:\Users\thyago.cquintas\source\repos\Hoteis\Hoteis\bin\Debug\net6.0-windows\Hoteis.dll
+C:\Users\thyago.cquintas\source\repos\Hoteis\Hoteis\bin\Debug\net6.0-windows\Hoteis.pdb
+C:\Users\thyago.cquintas\source\repos\Hoteis\Hoteis\obj\Debug\net6.0-windows\Hoteis.dll
+C:\Users\thyago.cquintas\source\repos\Hoteis\Hoteis\obj\Debug\net6.0-windows\refint\Hoteis.dll
+C:\Users\thyago.cquintas\source\repos\Hoteis\Hoteis\obj\Debug\net6.0-windows\Hoteis.pdb
+C:\Users\thyago.cquintas\source\repos\Hoteis\Hoteis\obj\Debug\net6.0-windows\Hoteis.genruntimeconfig.cache
+C:\Users\thyago.cquintas\source\repos\Hoteis\Hoteis\obj\Debug\net6.0-windows\ref\Hoteis.dll
