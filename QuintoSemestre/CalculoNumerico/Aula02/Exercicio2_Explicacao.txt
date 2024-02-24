@@ -1,0 +1,36 @@
+// PROBLEMA:
+// Estimar o valor de e pela série infinita 
+//       infinito
+// e^x =    Σ     x^n/n!
+//         n=0 
+// Calcule o erro absoluto e o erro relativo. Use 5 truncamentos diferentes.
+
+int main(void) {
+  int N = 5, x = 1, nFatorial = 1;
+  // a variavel N abstrai o número total de somatorias, que seria um número infinito, porem nesse caso utilizei apenas 5 para ficar mais prático
+  // a variavel x representa o x na equação de euler 
+  // a variavel nFatorial representa n! na equação de euler
+  double e = 1;
+  // a variavel e abstrai todas as somas da somatoria para se chegar no valor de euler
+
+  // todas as variaveis foram iniciadas com valores especificos para o programa funcionar
+  // x é igual a 1 para que e^1 = e e para 1^n/n!, como o professor nos indicou na aula
+  // nFatorial se inicia no 1, pois o computador não entende o conceito de fatorial e portanto não sabe que 0! é 1 e utilizando nFatorial *= n, 
+  // ele retornará 0 e tentará dividir x^n por 0, por isso também iniciei o valor de euler em 1, pois 1^0/0! já é definido como 1
+
+  for (int n = 1; n <= N; n++) {
+    nFatorial *= n;
+    e += pow(x, n) / nFatorial;
+    printf("Somatoria de n = %d: %d\n", n, nFatorial);
+  }
+
+  // nesse for se inicia a somatoria, a cada número de n, ele realizará o calculo do fatorial e o calculo de euler, assim como é possível fazer no papel
+  // coloquei o print dentro do for para verificar se os valores do fatorial estão corretos
+
+  printf("\n\nValor obtido de eˆ%d: %lf", x, e);
+  printf("\nValor esperado de eˆ%d: %lf", x, pow(M_E, x));
+  printf("\n\nErro absoluto: %lf", e - pow(M_E, x));
+  printf("\nErro relativo: %lf", (e - pow(M_E, x)) / pow(M_E, x));
+
+  return 0;
+}
